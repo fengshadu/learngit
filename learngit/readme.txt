@@ -4,3 +4,4 @@ Git is a mutabel index called stage.
 Git tracks change
 change again,no add
 Creating a new branch is quick really really & simple
+
